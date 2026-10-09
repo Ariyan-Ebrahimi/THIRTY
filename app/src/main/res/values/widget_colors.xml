@@ -1,0 +1,6 @@
+<resources>
+    <color name="thirty_black_bg">#000000</color>
+    <color name="thirty_lime_fg">#FFFFFF</color>
+    <color name="thirty_white_fg">#FFFFFF</color>
+    <color name="thirty_gray_fg">#8A8A8A</color>
+</resources>

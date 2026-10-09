@@ -1,0 +1,30 @@
+# Gradle / Android build outputs
+.gradle/
+**/build/
+
+# Local Android SDK paths (machine-specific)
+local.properties
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Signing keys and private signing configuration
+*.jks
+*.keystore
+keystore.properties
+signing.properties
+
+# Local environment files
+.env
+.env.*
+!.env.example
